@@ -1,0 +1,38 @@
+enter things
+t-shirts
+shirts
+tops
+sarees
+enter cost
+100
+200
+300
+400
+cash
+1300
+********************************8
+             RECEIPT
+*********************************
+terminal#1   08-07-2021
+---------------------------------
+t-shirts                     $ 100
+shirts                       $ 200
+tops                         $ 300
+sarees                       $ 400
+---------------------------------
+---------------------------------
+TOTAL AMOUNT          $ 1300
+CASH                  $ 1000
+CHANGE                $ 300
+ 
+bank card  **** **** ***** 4532
+APROVAL#                     
+---------------------------------
+ 
+~~~~~~~~~~~~~THANK YOU!~~~~~~~~~~
+ 
+---------------------------------
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
